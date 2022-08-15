@@ -7,5 +7,5 @@
     <img title="Terry's Github Streak" alt="Terry's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=terry-zo" />
   </a>
   <br />
-  <img title="Terry's LeetCode Stats" alt="Terry's LeetCode Stats" src="https://leetcard.jacoblin.cool/terry-zo?theme=dark&font=Abel&ext=activity" /> 
+  <img title="Terry's LeetCode Stats" alt="Terry's LeetCode Stats" src="https://leetcard.jacoblin.cool/terry-zo?theme=unicorn&font=Abel&ext=activity" /> 
 </p>
