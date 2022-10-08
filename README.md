@@ -8,7 +8,7 @@
   </a>
   <br />
   <a href="https://github.com/terry-zo#">
-    <img title="Terry's LeetCode Stats" alt="Terry's LeetCode Stats" src="https://leetcard.jacoblin.cool/terry-zo?theme=unicorn&font=Abel&ext=activity" /> 
+    <img title="Terry's LeetCode Stats" alt="Terry's LeetCode Stats" src="https://leetcard.jacoblin.cool/terry-zo?theme=light&font=Amiri&ext=heatmap" /> 
   </a>
     
 </p>
