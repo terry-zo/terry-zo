@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://leetcode.com/terry-zo/">
+  <a href="https://leetcode.com/terry-zo/" target="_blank">
     <img title="Terry's LeetCode Stats" alt="Terry's LeetCode Stats" src="https://leetcard.jacoblin.cool/terry-zo?theme=light&font=Amiri&ext=heatmap" /> 
   </a>
   <br />
